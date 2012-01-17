@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Pendulum Animation</string>
+  <string name="description">
+    This pendulum animation is made with a rotation pivoted at x = 50%, y = 0%.
+    The physics isn\'t quite right since the motion is linear,
+    but it illustrates a pivoted rotation pretty well.
+  </string>
+</resources>
